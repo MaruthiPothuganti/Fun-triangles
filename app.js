@@ -15,5 +15,3 @@ btnCheck.addEventListener('click', function isTriangle() {
         showOutput("Uh oh, It is not a Triangle");
     }
 })
-
-/*--------------------------------------------------------------------------------------------*/
