@@ -51,3 +51,9 @@ a {
 .option {
     margin-left: 20px;
 }
+
+.output {
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
