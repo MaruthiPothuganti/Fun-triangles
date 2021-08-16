@@ -12,6 +12,9 @@ h3 {
 .header {
     background-color: black;
     height: 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 a {
@@ -22,7 +25,7 @@ a {
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 120px;
     padding: 20px;
     text-align: center;
 }
@@ -35,4 +38,16 @@ a {
     margin-bottom: 15px;
     width: 200px;
     height: 20px;
+}
+
+
+/*-------------------------------------*/
+
+.Qns-container {
+    padding-left: 50px;
+    margin-top: 120px;
+}
+
+.option {
+    margin-left: 20px;
 }
