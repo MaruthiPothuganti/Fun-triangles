@@ -22,9 +22,17 @@ a {
 }
 
 .container {
+    margin-top: 20px;
+    padding: 20px;
     text-align: center;
 }
 
 .outputMessage {
     text-align: center;
+}
+
+.input {
+    margin-bottom: 15px;
+    width: 200px;
+    height: 20px;
 }
