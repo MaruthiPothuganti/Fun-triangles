@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+h3 {
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: red;
+}
+
+.header {
+    background-color: black;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+    float: right;
+    margin-right: 5%;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.outputMessage {
+    text-align: center;
+}
