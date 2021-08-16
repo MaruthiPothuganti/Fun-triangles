@@ -30,6 +30,12 @@ a {
     text-align: center;
 }
 
+h2 {
+    text-decoration: underline;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
 .outputMessage {
     text-align: center;
 }
