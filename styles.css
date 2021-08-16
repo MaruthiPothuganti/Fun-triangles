@@ -48,6 +48,10 @@ h2 {
     height: 20px;
 }
 
+#btnFinish {
+    margin-bottom: 100px;
+}
+
 
 /*-------------------------------------*/
 
@@ -61,7 +65,27 @@ h2 {
 }
 
 .output {
-    margin-top: 5%;
     text-align: center;
-    margin-bottom: 5%;
+    margin-bottom: 30%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    padding-left: 35%;
+    padding-right: 35%;
+    background-color: black;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.links {
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: red;
 }
