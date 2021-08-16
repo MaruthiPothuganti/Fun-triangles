@@ -1,0 +1,1 @@
+A small web app which can perform operations like taking input angles from users and checking whether it forms a triangle or not, calculating the area of the triangle, Hypotenuse of the triangle, and a small Quiz on Triangles.
