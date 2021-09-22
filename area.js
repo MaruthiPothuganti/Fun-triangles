@@ -5,6 +5,8 @@ const resultOutput = document.querySelector("#output");
 
 btnCalculate.addEventListener('click', function calculateArea() {
 
+
+
     if (Number(base.value) > 0 && Number(height.value) > 0) {
         const area = 0.5 * Number(base.value) * Number(height.value);
 
