@@ -20,5 +20,7 @@ btnCheck.addEventListener('click', function isTriangle() {
         }
     } else if (Number(input[0].value) === 0 && Number(input[1].value) === 0 && Number(input[2].value) === 0) {
         showOutput("Please provide inputs/ Dont give all Zeroes");
+    } else {
+        showOutput("Can't accept negative values");
     }
 })
