@@ -2,7 +2,7 @@ const quiz = document.querySelector(".quiz");
 const btnFinish = document.querySelector("#btnFinish");
 const result = document.querySelector("#resultMessage");
 
-var correctAnswers = ["Right", "Acute angled triangle", "Eqilateral Triangle", "Scalene Triangle", "60°", "Hypotenuse", "Scalene Triangle", "55°", "Equal", "BF = CE"];
+var correctAnswers = ["Right", "Acute angled triangle", "Equilateral Triangle", "Scalene Triangle", "60°", "Hypotenuse", "Scalene Triangle", "55°", "Equal", "BF = CE"];
 
 btnFinish.addEventListener("click", function Result() {
     const fromQuiz = new FormData(quiz);
