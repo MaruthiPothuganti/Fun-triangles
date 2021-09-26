@@ -14,6 +14,10 @@ btnFinish.addEventListener("click", function Result() {
         }
         index += 1;
     }
-    result.innerText = "Your Total Score is : " + score;
-    console.log(score);
+
+    if (score === 0) {
+        alert("Please provide all inputs");
+    } else {
+        result.innerText = "Your Total Score is : " + score;
+    }
 })
